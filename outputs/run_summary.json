@@ -1,7 +1,7 @@
 {
-    "timestamp": "2026-04-16T15:17:56.353365+00:00",
+    "timestamp": "2026-04-16T22:28:03.556588+00:00",
     "tickers": "AAPL",
     "articles_fetched": 50,
-    "sql_inserted": 6,
+    "sql_inserted": 9,
     "vector_inserted": 50
 }
